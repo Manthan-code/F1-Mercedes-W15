@@ -1,0 +1,53 @@
+.portfoliobg{
+    background-image: url("PETRONAS\ 50\ Desktop\ Wallapaper\ 2.jpg");
+    background-size: 87%;
+    background-repeat: repeat;
+    background-attachment: fixed;   
+}
+
+table,th,td{
+    margin-top: 65%;
+    border: 2px solid black;
+    border-radius: 5px;
+    border-style: dotted double solid;
+    background-color: rgba(154, 205, 50,0.2);
+    outline-style: dashed;
+    outline-width: 5%;
+    
+}
+div{
+   height:auto;
+}
+h1{
+    color: rgba(0, 0, 0,0.5) ;
+    text-align: center;
+    background-color: rgb(0, 161, 155);
+    position:static;
+    top: 0px; 
+    left: 30%; 
+}
+p.info{
+    background-color: rgba(255,0, 0, 70%);
+    color: black;
+    font-size: large;
+    font-weight: 600;
+    outline-style: dashed;
+    outline-width: 5%;
+    
+}
+
+.info{
+    background-color: rgba(0, 255, 255,0.1);
+    color: rgba(0, 0, 0,0.1);
+}
+.info:hover{
+    background-color: rgba(0, 161, 155,0.5);
+    color: black;
+}
+.footer{
+    background-color: rgba(255, 228, 196,0.8);
+    
+    width: 100%;
+    height: auto;
+}
+
